@@ -220,7 +220,7 @@ p {
 }
 
 .dp {
-    width: 69%;
+    width: 40rem;
     height: auto;
     display: flex;
     position: absolute;
@@ -241,8 +241,8 @@ p {
     width: 6.2rem;
     height: auto;
     padding: 1.6rem;
-    left: 9.8rem;
-    bottom: -2.5rem;
+    left: 38.8rem;
+    bottom: -2.8rem;
     position: absolute;
     border-radius: 100%;
     margin: .3rem 0 0 12rem;
